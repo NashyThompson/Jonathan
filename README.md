@@ -21,42 +21,7 @@ Um site especial de feliz aniversário com homenagem romântica, criado com amor
 
 ## 📁 Estrutura dos arquivos
 
-```
-birthday_site/
-├── index.html          # Arquivo principal do site
-├── media/              # Pasta com todas as imagens e vídeos
-│   ├── PRIMEIRAVEZ...jpeg
-│   ├── NÓS....jpeg
-│   ├── OSEUBEIJO....mp4
-│   └── ... (outros arquivos)
-└── README.md           # Este arquivo
-```
 
-## 🎯 Deploy no GitHub Pages
-
-1. **Crie um repositório** no GitHub
-2. **Faça upload** de todos os arquivos desta pasta
-3. **Ative o GitHub Pages** nas configurações do repositório
-4. **Compartilhe o link** gerado com o Jonathan
-
-## 💝 Conteúdo
-
-O site contém 15 momentos especiais:
-- Primeira vez que nos vimos
-- Nós
-- Nossas brincadeiras
-- Nossas diferenças
-- Nossos momentos
-- O dia que quase fomos de F na brincadeira
-- O jeito de jogar bola (vídeo)
-- O meu jeito de tratar
-- O seu beijo (vídeo)
-- O seu jeito
-- O seu olhar
-- Te amo
-- Você
-- Texto romântico
-- Final (mensagem especial de aniversário)
 
 ---
 
